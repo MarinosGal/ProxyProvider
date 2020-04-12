@@ -19,7 +19,6 @@ import java.util.logging.Logger;
  * @since 11 April 2020
  */
 public class ProxyProvider {
-
 	public static final Logger logger = Logger.getLogger(ProxyProvider.class.getName());
 
 	private String userAgent;
